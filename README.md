@@ -1,7 +1,8 @@
-# TicTacToe
+# Tic Tac Toe
 Tic Tac Toe you can play with your Frinds or with computer
 
-#main page
+# main page
+
 ![Screenshot 2024-05-23 205701](https://github.com/HabibaSaad/TicTacToe/assets/170198437/a5da69c4-d956-41a5-a258-591f4f0296e3)
 
 ![Screenshot 2024-05-23 205717](https://github.com/HabibaSaad/TicTacToe/assets/170198437/0443808f-52d6-4193-bcdf-44aa169bfbe6)
